@@ -4,6 +4,9 @@ layout: post
 # Clean_slate
 * Clear stack 
   * Remember that a lot of it can be converted into todos 
+  * Review the stack
+  * Put it in order 
+  * Do it. 
 * Process inbox.md
   * See what can be moved over to it's own issue. 
   * Review, check, and move everything over to index.md
