@@ -9,20 +9,19 @@ layout: page
 _All work is emotional_
 
 
-
-
 # First Logging in to desktop
-* [Process calendar](process_calendar)
+* [Process calendar](process_calendar) <!--Because something might be urgent --> 
+* Open Macvim and make inbox.md note
+  * inbox.md should always have a valid smallest next step.
 * Work out when you are going live today and make a note to reboot machine: 
   * Early morning?
   * After school run?
   * After lunch? 
-* Put mouse away
-* start mouse sniper 
-* Make Inbox.md note
+* Make sure mouse is in desk and mouse sniper is working 
 * Look at [ten year and one year goals](https://docs.google.com/spreadsheets/d/1l8SRHzjBQpsnMFq8kY8b2QIQkSmda2RpocWAYKm-DQc/edit?usp=sharing)
-* Turn on redirector and start a social media stack copy and paste these to stack: 
-* copy and paste these to stack: <button onclick="copy()">Copy Text</button>
+* Turn on redirector (consider opening social media stack)
+* Turn Stack into todos 
+* Collect any tasks
     * Clear desk into inbox. 
     * [Process Inbox](process_inbox)
     * Process Paper
@@ -50,4 +49,5 @@ navigator.clipboard.writeText(`
 # Contents 
 * [clean slate](clean_slate)
 * [Single item](listitem)
+* [kitchen](clean_kitchen)
 
