@@ -11,3 +11,7 @@ title: "List item"
   * then list six steps in the stack 
   * If can go live, then go live 
 * If 'I can't do this now' - write a proper note and see what prep work you can do, draft email, pack bag 
+
+
+# Some useful links
+* [email](email)

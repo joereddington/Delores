@@ -14,4 +14,4 @@ layout: post
 * Make sure you know what you 'big thing' for the week is. 
 * Look at the automatic calendar and *Write down* a review of the previous day or two.  
 * If workday: open eqt.todo.txt else: open todo.txt
-* [Attack first item on list](Listitem)
+* [Attack first item on list](listitem)
