@@ -4,7 +4,7 @@ layout: post
 
 
 # Process_calendar
-* Open [Calendar](https://calendar.google.com/calendar/u/0/r){:target="_blank"}
+* Open either [private](https://calendar.google.com/calendar/u/0/r){:target="_blank"} or [public](https://joereddington.com/calendar.html){:target="_blank"} calendar. 
 * Fill in calendar with what you intend to do. 
 * For each appointment in the next two days: 
   * Set alarm

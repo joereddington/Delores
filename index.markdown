@@ -50,4 +50,5 @@ navigator.clipboard.writeText(`
 * [clean slate](clean_slate)
 * [Single item](listitem)
 * [kitchen](clean_kitchen)
+* [morning](morning)
 
