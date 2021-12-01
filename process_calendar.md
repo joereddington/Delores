@@ -4,12 +4,13 @@ layout: post
 
 
 # Process_calendar
-* Open either [private](https://calendar.google.com/calendar/u/0/r){:target="_blank"} or [public](https://joereddington.com/calendar.html){:target="_blank"} calendar. 
-* Fill in calendar with what you intend to do. 
+* Open either [detailed](https://calendar.google.com/calendar/u/0/r){:target="_blank"} or [public](https://joereddington.com/calendar.html){:target="_blank"} calendar. 
+* If there is blocked out time for right now:  (such as email time), then keep going until you have your drinks and then do it. 
 * For each appointment in the next two days: 
   * Set alarm
-  * Confirm time/medium with the other people 
+  * _Confirm time/medium with the other people_ (including re-reading emails)
   * Add any tasks about appointment to stack (including packing bags)
 * Plan food 
   * Look at meals.todo.txt
 * Plan Exercise 
+* Plan social media process time
