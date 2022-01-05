@@ -62,4 +62,5 @@ navigator.clipboard.writeText(`
 * [kitchen](clean_kitchen)
 * [morning](morning)
 * [email](email)
+* [emotionalproblem](emotionalproblem)
 
