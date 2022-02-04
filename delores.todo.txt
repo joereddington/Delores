@@ -1,15 +1,14 @@
 # Problems to solve 
-(E)  Getting this on phone 
-(E)  Making sure shaving fits in the system. 
-
+x 2022-02-03 Getting this on phone 
+(E) Making sure shaving fits in the system. 
+(E) Write the 'I don't wanna' for delores 
+(E) Adding timings
+(E) Putting the highlighting script file on other pages
+(E) 'Enter on a highlighted line should go to link' 
+(E) Add meta process 'if you want to change delores, it goes into the list. 
+(E) Put linkedin into Social media process. 
+(E) Process all the examples below. 
 --- 
-
-# Morning Routine 
-* Weight self 
-* Drink 1L water 
-* Make Keto Hot chocolate
-* Get dressed. 
-
 
 # Clean up todo 
 * I'm going to put the list in order.
