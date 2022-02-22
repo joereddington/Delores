@@ -12,8 +12,11 @@ title: "List item"
 * Check priority
   * If priority changes then sort and start again. 
   * If priority implies a date and person, then fill those in. 
+* If you'll ever do this task again:
+  * Make good notes
 * If will take over an hour:  
   * It should be an github issue. Or at least treated as one.  
+  * If it is already a github issue, then you should read the issue before you start
   * then list six steps in the stack 
   * If can go live, then go live 
 * If 'I can't do this now' - write a proper note and see what prep work you can do, draft email, pack bag 

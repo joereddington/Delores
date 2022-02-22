@@ -12,5 +12,6 @@ layout: post
   * Add any tasks about appointment to stack (including packing bags)
 * Plan food 
   * Look at meals.todo.txt
+  * Check we have the ingredients
 * Plan Exercise 
 * Plan social media process time

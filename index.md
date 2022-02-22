@@ -5,9 +5,26 @@
 layout: page
 ---
 
+Some things that are worth knowing about Delores: 
 
-## Start here
-* Phone is literally locked away. 
+Sometimes it's useful to follow the page step by step, but a lot of the time 90% of the value is found by writing it out once so that you spot those times you are lying to yourself. 
+
+## Morning 
+* clean teeth and process clear bags
+* Remember that muscili gives you bellyache
+* Running clothes
+* Check dishwasher has been on
+* drink 1l water
+* Vitamin tablet
+* Put kettle on 
+
+
+
+## Sitting at desk ready to do some work
+* Phone is literally locked away (if you need a code for a login, then you can wait, if you need to make a call, use Skype)  
+* Know where the book you are reading is
+* Daylight lamp on if morning
+* Fill out big book of gratitude
 * Get into the mindset
   * Think _All work is emotional_
   * Remember that 'recover with ten minutes mediation' is one of your ten year goals. 
@@ -49,7 +66,9 @@ layout: page
 * Commit the todo.txt
 * If workday: open eqt.todo.txt else: open todo.txt
 * If list empty, review project boards and regenerate list
-* [Attack first item on list](listitem)
+* While there are items on the list 
+  * [Attack first item on list](listitem)
+  * literal rest
 
 
 <script>
@@ -64,36 +83,6 @@ navigator.clipboard.writeText(`
 * Process Couple Reminders.
 * Process/Delete files in fileless `) 
 }
-
-var index=0;
-
-function updatestyles(index){
-    const allVisibleElements = document.querySelectorAll('li');
-    allVisibleElements[index].setAttribute("style", "background-color:yellow;color:black");
-    for (let i=0;i<index;i++){
-      allVisibleElements[i].setAttribute("style", "background-color:white;color:lightgray");
-    }
-    for (let i=index+1;i<allVisibleElements.length;i++){
-      allVisibleElements[i].setAttribute("style", "background-color:white");
-    }
-}
-
-document.addEventListener('keydown', (event) => {
-    if (event.key == 'ArrowUp') {
-      event.preventDefault();
-      if (index>0)
-      {
-        index--;
-      }
-    }
-    if (event.key == 'ArrowDown') {
-        event.preventDefault();
-        index++;
-    }
-    updatestyles(index); 
-}
-    );
-
 
 
 </script>
@@ -118,5 +107,22 @@ document.addEventListener('keydown', (event) => {
 * Coats and hats and shoes for kids preped
 * Know what the game is 
 
+## Social media process 
+* Start with EQT social media 
+* Put some of the read it later on twitter
+* Clear personal inboxes first: people are waiting for a reply 
+* open social media calendars and pick posts. 
+  * Add tasks for other things in the social calendar 
+* Remember to post something to reddit. 
+* Draft posts vim
+* Open linkedin first 
+* Open Facebook
+* Make Posts 
+* Go to profile and work backwards answering all comments 
+* Process notifications 
+* Review all posts in Luton vegan group and add friends
+* Same for CEO group. 
+* Process Newsfeed in 'most recent' order. 
+* See .Gratitude
 
 

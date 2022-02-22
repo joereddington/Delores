@@ -1,64 +1,24 @@
-# Problems to solve 
-x 2022-02-03 Getting this on phone 
-(E) Making sure shaving fits in the system. 
 (E) Write the 'I don't wanna' for delores 
+(E) When a section is highlighted, the link should work. 
+(E) Add 'do daily checklist' to delores
 (E) Adding timings
-(E) Putting the highlighting script file on other pages
 (E) 'Enter on a highlighted line should go to link' 
 (E) Add meta process 'if you want to change delores, it goes into the list. 
-(E) Put linkedin into Social media process. 
-(E) Process all the examples below. 
---- 
+(E) Inline the smallest page 
 
-# Clean up todo 
-* I'm going to put the list in order.
-* Remove all dates and priorities
-* Rewrite each one from scratch 
-* Make sure that there is a physical next action, that it starts with a verb
-
-
-
-# Morning 
-Paper
-
-
-# Night 
-Paper
-
-# Process a stuck emotion
-* Write it down. 
-  * Think about being more honest
-  * Ask 'Why?' three times
-  * Ask if the person has eaten, slept, or is worrying about something else.
-
-* 1L of water. 
-* Big Sheet of paper and pens. 
-* Lego movie
-
-# Social Media Process 
-* open social media calendars and pick posts. 
-  * Add tasks for other things in the social calendar 
-* Draft posts vim
-* Open Facebook
-* Make Posts 
-* Go to profile and work backwards answering all comments 
-* Process notifications 
-* Review all posts in Luton vegan group and add friends
-* Same for CEO group. 
-* Process Newsfeed in 'most recent' order. 
-* See .Gratitude
-* TODO - Add reddit
+      11 process_inbox.md
+      14 clean_slate.md
+      14 email.md
+      14 morning.md
+      16 process_calendar.md
+      22 packinglists.md
+      28 clean_kitchen.md
+      28 emotionalproblem.md
+      36 nonononono.md
+      41 listitem.md
+     110 index.md
+     335 total
 
 
- 
-# Bed time
-Peanut butter, 1L of water and cold shower before bed. 
-
-
-# Gratitude
-
-# Working on project 
-* Open the github.
-* Mark the inbox. 
 
 
