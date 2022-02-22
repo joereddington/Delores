@@ -1,9 +1,43 @@
 <head>
 <script>
-  $(document).ready(function(){
-     $('.task-list-item-checkbox').prop("disabled", false); 
-    console.log("Hello")
-  }); 
+
+var index=0;
+
+function updatestyles(index){
+    const allVisibleElements = document.querySelectorAll('li');
+    allVisibleElements[index].setAttribute("style", "background-color:yellow;color:black");
+    for (const child of allVisibleElements[index].childNodes){
+      if (child.tagName == 'A'){
+        child.focus()
+      }
+
+    } 
+    for (let i=0;i<index;i++){
+      allVisibleElements[i].setAttribute("style", "background-color:white;color:lightgray");
+    }
+    for (let i=index+1;i<allVisibleElements.length;i++){
+      allVisibleElements[i].setAttribute("style", "background-color:white");
+    }
+}
+
+document.addEventListener('keydown', (event) => {
+    if (event.key == 'ArrowUp') {
+      event.preventDefault();
+      if (index>0)
+      {
+        index--;
+      }
+    }
+    if (event.key == 'ArrowDown') {
+        event.preventDefault();
+        index++;
+    }
+    updatestyles(index); 
+}
+    );
+
+
+
 </script>
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
