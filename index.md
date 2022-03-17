@@ -20,10 +20,9 @@ Sometimes it's useful to follow the page step by step, but a lot of the time 90%
 
 
 
-## Sitting at desk ready to do some work
+## Morning
 * Phone is literally locked away (if you need a code for a login, then you can wait, if you need to make a call, use Skype)  
 * Know where the book you are reading is
-* Daylight lamp on if morning
 * Fill out big book of gratitude
 * Get into the mindset
   * Think _All work is emotional_
@@ -32,9 +31,10 @@ Sometimes it's useful to follow the page step by step, but a lot of the time 90%
     * Pause at the top and bottom of breathing 
     * Wait until you hear your heartbeat
   * Smile
-* If you haven't already:
-  * [Plan Time and Process Calendar](process_calendar) <!--Because something might be urgent --> 
-* Prepare for a long sprit
+* Sit at desk and login. 
+* [Plan Time and Process Calendar](process_calendar) <!--Because something might be urgent --> 
+* Look at [ten year and one year goals](https://docs.google.com/spreadsheets/d/1l8SRHzjBQpsnMFq8kY8b2QIQkSmda2RpocWAYKm-DQc/edit?usp=sharing)
+* Prepare for a long sprint
   * Work out how long the sprint is going to be and set alarm  (ten minutes early if tagging in on kids) 
   * Open Macvim and make inbox.md note
   * Start 'watching'
@@ -42,7 +42,6 @@ Sometimes it's useful to follow the page step by step, but a lot of the time 90%
   * Get glasses
   * Get full water bottle, hot drink, and tray (take dirty cups out with you) 
 * If you haven't already:
-  * Look at [ten year and one year goals](https://docs.google.com/spreadsheets/d/1l8SRHzjBQpsnMFq8kY8b2QIQkSmda2RpocWAYKm-DQc/edit?usp=sharing)
   * Turn Stack into todos 
   * Collect any tasks
       * Clear desk into inbox. 

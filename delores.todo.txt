@@ -1,9 +1,8 @@
 (E) Write the 'I don't wanna' for delores 
-(E) When a section is highlighted, the link should work. 
 (E) Add 'do daily checklist' to delores
 (E) Adding timings
-(E) 'Enter on a highlighted line should go to link' 
 (E) Add meta process 'if you want to change delores, it goes into the list. 
+(E) 'Weekend' delores should include a todo commit so that you can use the phone for the rest of the day. 
 (E) Inline the smallest page 
 
       11 process_inbox.md
