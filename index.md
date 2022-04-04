@@ -20,9 +20,11 @@ Sometimes it's useful to follow the page step by step, but a lot of the time 90%
 
 
 
-## Morning
+## Work day
+* Morning routine first 
 * Phone is literally locked away (if you need a code for a login, then you can wait, if you need to make a call, use Skype)  
 * Know where the book you are reading is
+* Fill out the daily checklist
 * Fill out big book of gratitude
 * Get into the mindset
   * Think _All work is emotional_
@@ -125,3 +127,10 @@ navigator.clipboard.writeText(`
 * See .Gratitude
 
 
+
+# Close down work day 
+* Commit and push todos and put on kindle 
+* Clear up the input file. 
+* Clear the stack. 
+* Make it easy to come back to. 
+* Afternoon Meditation for solid evening.  

@@ -1,6 +1,5 @@
 (E) Write the 'I don't wanna' for delores 
-(E) Add 'do daily checklist' to delores
-(E) Adding timings
+(E) Adding timer function to individual ideas
 (E) Add meta process 'if you want to change delores, it goes into the list. 
 (E) 'Weekend' delores should include a todo commit so that you can use the phone for the rest of the day. 
 (E) Inline the smallest page 
@@ -17,6 +16,7 @@
       41 listitem.md
      110 index.md
      335 total
+
 
 
 
