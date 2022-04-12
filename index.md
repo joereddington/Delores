@@ -26,6 +26,7 @@ Sometimes it's useful to follow the page step by step, but a lot of the time 90%
 * Know where the book you are reading is
 * Fill out the daily checklist
 * Fill out big book of gratitude
+* If you don't have time for ten minutes meditation, then you need 20 minutes meditation. 
 * Get into the mindset
   * Think _All work is emotional_
   * Remember that 'recover with ten minutes mediation' is one of your ten year goals. 
@@ -39,6 +40,7 @@ Sometimes it's useful to follow the page step by step, but a lot of the time 90%
 * Prepare for a long sprint
   * Work out how long the sprint is going to be and set alarm  (ten minutes early if tagging in on kids) 
   * Open Macvim and make inbox.md note
+  * Write down what you are scared about. 
   * Start 'watching'
   * Turn on redirector (consider opening social media stack)
   * Get glasses
