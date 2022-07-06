@@ -1,4 +1,4 @@
----
+
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
@@ -19,41 +19,34 @@ Sometimes it's useful to follow the page step by step, but a lot of the time 90%
 * Put kettle on 
 
 
+Add to Delores - get really really angry about some thing (to show that the anger is always available always there)
 
 ## Work day
 * Morning routine first 
 * Phone is literally locked away (if you need a code for a login, then you can wait, if you need to make a call, use Skype)  
 * Know where the book you are reading is
 * Fill out the daily checklist
+  * Pick one thing to do better tomorrow. 
 * Fill out big book of gratitude
-* If you don't have time for ten minutes meditation, then you need 20 minutes meditation. 
-* Get into the mindset
-  * Think _All work is emotional_
-  * Remember that 'recover with ten minutes mediation' is one of your ten year goals. 
-  * Deep breaths. 
-    * Pause at the top and bottom of breathing 
-    * Wait until you hear your heartbeat
-  * Smile
-* Sit at desk and login. 
+* Smile
 * [Plan Time and Process Calendar](process_calendar) <!--Because something might be urgent --> 
 * Look at [ten year and one year goals](https://docs.google.com/spreadsheets/d/1l8SRHzjBQpsnMFq8kY8b2QIQkSmda2RpocWAYKm-DQc/edit?usp=sharing)
-* Prepare for a long sprint
-  * Work out how long the sprint is going to be and set alarm  (ten minutes early if tagging in on kids) 
-  * Open Macvim and make inbox.md note
-  * Write down what you are scared about. 
-  * Start 'watching'
-  * Turn on redirector (consider opening social media stack)
-  * Get glasses
-  * Get full water bottle, hot drink, and tray (take dirty cups out with you) 
-* If you haven't already:
-  * Turn Stack into todos 
-  * Collect any tasks
-      * Clear desk into inbox. 
-      * [Process Inbox](process_inbox)
-      * Process Paper (which should be in inbox anyway)
-      * Process reminders
-      * Process Couple Reminders.
-      * Empty recycle bin then: process/Delete files in filesystem 
+* If you have more than an hour:
+  * Prepare for a long sprint
+    * Work out how long the sprint is going to be and set alarm  (ten minutes early if tagging in on kids) 
+    * Open Macvim and make inbox.md note
+    * Write down what you are scared about *and* what you are excited about. 
+    * Start 'watching'
+    * Turn on redirector (consider opening social media stack)
+    * Get glasses
+    * Get full water bottle, hot drink, and tray (take dirty cups out with you) 
+* Turn Stack into todos 
+* Collect any tasks
+    * Process reminders
+    * Clear desk into inbox. 
+    * [Process Inbox](process_inbox)
+    * Process Paper (which should be in inbox anyway)
+    * Empty recycle bin then: process/Delete files in filesystem 
 * Process inbox.md
   * Remember the purpose of the file: 
     * To help you recover from interupts 

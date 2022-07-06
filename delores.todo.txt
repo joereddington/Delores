@@ -19,5 +19,24 @@
 
 
 
+# The parser process. 
 
 
+## The log file 
+  * Should have a specalised file extension 
+  * With shortcuts for that file - effectively a version of todo.txt but with more going on. 
+  * so we can tick and whatever
+  * And highlight 
+
+
+## Questions to answer 
+* Do we mark off 'if' checks we've done? If the object is to boost ticks then that's fine. 
+
+## Key 
+
+✓ done 
+- ignore
+3 done three times 
+* Needs to be changed, don't count. 
+
+For each day, count the terms. 

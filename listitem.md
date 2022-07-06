@@ -4,10 +4,15 @@ title: "List item"
 ---
 
 
+# Main thing
+Always go back to inbox.md. Rewrite, make notes and break down, that's the prupose of it. 
+
 # Picking an item
 * If there are >5 of the current priority level, then sort on due date (for (A) or (C)) or importance (B) and (D) or pick at random (E)  
 
 # Item in todo list. 
+* Get excited.  
+  * Really think about what it will be like to get it finally ticked off. 
 * Vim tasks go into the vim issue! Delores tasks go in the delores todo. 
 * Check priority
   * If priority changes then sort and start again. 
@@ -21,7 +26,7 @@ title: "List item"
   * If can go live, then go live 
 * If 'I can't do this now' - write a proper note and see what prep work you can do, draft email, pack bag 
   * When done, rewrite the issue so that the next action is clear and the description is up to date. 
-* Do the task. 
+* Do the first step in the stack 
   * If the task ends up taking long than an hour, convert to github or blog 
   * Remember that, by definition, this task is more important than anything below it. 
   * It's done when there is nothing left to do - it's done when you need things from other people to keep doing  
