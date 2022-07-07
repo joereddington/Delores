@@ -2,22 +2,57 @@
 <script>
 
 var index=0;
+var bullets="xxxx";
+
+function updatescore(){
+
+y=(bullets.match(/y/g) || []).length
+
+console.log("Hello");
+console.log(y);
+document.getElementById("score").innerHTML  = "Completed: "+(bullets.match(/y/g) || []).length
+document.getElementById("score").innerHTML += "<BR>Failed   : "+(bullets.match(/n/g) || []).length
+document.getElementById("score").innerHTML += "<BR>NA       : "+(bullets.match(/i/g) || []).length
+
+} 
 
 function updatestyles(index){
     const allVisibleElements = document.querySelectorAll('li');
     allVisibleElements[index].setAttribute("style", "background-color:yellow;color:black");
+    //style based on bullets
+    for (let i=0;i<allVisibleElements.length;i++){
+        allVisibleElements[i].setAttribute("style", "background-color:white");
+        if ("y+".includes(bullets[i])){
+          allVisibleElements[i].setAttribute("style", "background-color:green");
+        }
+        if (bullets[i]=='n'){
+          allVisibleElements[i].setAttribute("style", "background-color:red");
+        }
+        if (bullets[i]=='i'){
+          allVisibleElements[i].setAttribute("style", "background-color:cyan");
+        }
+        if (index==i){
+          allVisibleElements[index].setAttribute("style", "background-color:yellow;color:black");
+        } 
+    //Focus on a link in a highlighted line 
     for (const child of allVisibleElements[index].childNodes){
       if (child.tagName == 'A'){
         child.focus()
       }
-
     } 
-    for (let i=0;i<index;i++){
-      allVisibleElements[i].setAttribute("style", "background-color:white;color:lightgray");
+
+
     }
-    for (let i=index+1;i<allVisibleElements.length;i++){
-      allVisibleElements[i].setAttribute("style", "background-color:white");
-    }
+
+}
+
+// From https://stackoverflow.com/a/1431110/170243
+//Altered to extend strings if necessary 
+function setCharAt(str,index,chr) {
+    console.log(str);
+    str=str.padEnd(index,'x');
+    console.log(str);
+    return str.substring(0,index) + chr + str.substring(index+1);
 }
 
 document.addEventListener('keydown', (event) => {
@@ -32,7 +67,14 @@ document.addEventListener('keydown', (event) => {
         event.preventDefault();
         index++;
     }
+    if ("ynix".includes(event.key)) {
+        event.preventDefault();
+        bullets=setCharAt(bullets,index,event.key)
+        index++;
+    }
+    
     updatestyles(index); 
+    updatescore();
 }
     );
 

@@ -1,4 +1,4 @@
-
+--- 
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
@@ -8,6 +8,13 @@ layout: page
 Some things that are worth knowing about Delores: 
 
 Sometimes it's useful to follow the page step by step, but a lot of the time 90% of the value is found by writing it out once so that you spot those times you are lying to yourself. 
+
+
+<div id="score">
+<script>
+updatescore();
+</script>
+</div>
 
 ## Morning 
 * clean teeth and process clear bags
@@ -26,7 +33,6 @@ Add to Delores - get really really angry about some thing (to show that the ange
 * Phone is literally locked away (if you need a code for a login, then you can wait, if you need to make a call, use Skype)  
 * Know where the book you are reading is
 * Fill out the daily checklist
-  * Pick one thing to do better tomorrow. 
 * Fill out big book of gratitude
 * Smile
 * [Plan Time and Process Calendar](process_calendar) <!--Because something might be urgent --> 
