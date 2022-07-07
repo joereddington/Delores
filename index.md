@@ -12,7 +12,6 @@ Sometimes it's useful to follow the page step by step, but a lot of the time 90%
 
 <div id="score">
 <script>
-updatescore();
 </script>
 </div>
 
@@ -135,3 +134,9 @@ navigator.clipboard.writeText(`
 * Clear the stack. 
 * Make it easy to come back to. 
 * Afternoon Meditation for solid evening.  
+
+<div>
+<script>
+setup();
+</script>
+</div>
