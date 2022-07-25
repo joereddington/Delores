@@ -36,8 +36,7 @@ Add to Delores - get really really angry about some thing (to show that the ange
 * Smile
 * [Plan Time and Process Calendar](process_calendar) <!--Because something might be urgent --> 
 * Look at [ten year and one year goals](https://docs.google.com/spreadsheets/d/1l8SRHzjBQpsnMFq8kY8b2QIQkSmda2RpocWAYKm-DQc/edit?usp=sharing)
-* If you have more than an hour:
-  * Prepare for a long sprint
+* If you have more than an hour we Prepare for a long sprint:
     * Work out how long the sprint is going to be and set alarm  (ten minutes early if tagging in on kids) 
     * Open Macvim and make inbox.md note
     * Write down what you are scared about *and* what you are excited about. 
@@ -53,7 +52,7 @@ Add to Delores - get really really angry about some thing (to show that the ange
     * Process Paper (which should be in inbox anyway)
     * Empty recycle bin then: process/Delete files in filesystem 
 * Process inbox.md
-  * Remember the purpose of the file: 
+Remember the purpose of the file: 
     * To help you recover from interupts 
     * To make notes that might be useful 
     * To track time

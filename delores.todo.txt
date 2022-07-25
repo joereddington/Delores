@@ -40,3 +40,24 @@
 * Needs to be changed, don't count. 
 
 For each day, count the terms. 
+## 07/07/22 10:31 to 12:53, Let's have some Delores code.  +EQT
+* I've checked out a new branch 
+* The lines show colours based on a string 
+* Key presses all work. 
+* Scores work! 
+* Cookies work! 
+* Also had a couple of phone calls - one with prison and one with remote.
+* Comited, need to test before doing more  
+
+# Project stack 
+* Cookies. 
+  * Multiple pages, multiple days. 
+* A count for loops 
+* Redo the design. 
+* Full reset button. 
+* Sound effect for yeses 
+* Timers (and key to update)  
+* Yes and No should work differently on "IF" and "While" statements and indeed, shouldn't count as scored. 
+* Extract the javascript files. 
+* Work out why it doesn't work with subpages
+* Work out why the yellow 'cursor' isn't consistent between pages
