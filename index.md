@@ -17,7 +17,6 @@ Sometimes it's useful to follow the page step by step, but a lot of the time 90%
 
 ## Morning 
 * clean teeth and process clear bags
-* Remember that muscili gives you bellyache
 * Running clothes
 * Check dishwasher has been on
 * drink 1l water
@@ -25,37 +24,37 @@ Sometimes it's useful to follow the page step by step, but a lot of the time 90%
 * Put kettle on 
 
 
-Add to Delores - get really really angry about some thing (to show that the anger is always available always there)
-
-## Work day
-* Morning routine first 
-* Phone is literally locked away (if you need a code for a login, then you can wait, if you need to make a call, use Skype)  
-* Know where the book you are reading is
-* Fill out the daily checklist
+# Getting into a good mood 
 * Fill out big book of gratitude
 * Smile
-* [Plan Time and Process Calendar](process_calendar) <!--Because something might be urgent --> 
-* Look at [ten year and one year goals](https://docs.google.com/spreadsheets/d/1l8SRHzjBQpsnMFq8kY8b2QIQkSmda2RpocWAYKm-DQc/edit?usp=sharing)
-* If you have more than an hour we Prepare for a long sprint:
-    * Work out how long the sprint is going to be and set alarm  (ten minutes early if tagging in on kids) 
-    * Open Macvim and make inbox.md note
-    * Write down what you are scared about *and* what you are excited about. 
-    * Start 'watching'
-    * Turn on redirector (consider opening social media stack)
-    * Get glasses
-    * Get full water bottle, hot drink, and tray (take dirty cups out with you) 
-* Turn Stack into todos 
+* Write down what you are scared about *and* what you are excited about. 
+
+# Make sure we'll still have energy in a few hours. 
+* Fill out the daily checklist (As a reminder of the things you want to do well) 
+* Get glasses
+* [Plan Time and Process Calendar](process_calendar) (Includes planning exercise and food) <!--Because something might be urgent --> 
+* Get full water bottle, hot drink, and tray (take dirty cups out with you) 
+
+
+# Defensive Focus  
+* Phone is literally locked away (if you need a code for a login, then you can wait, if you need to make a call, use Skype).
+* Turn on redirector (consider opening social media stack).
+* Commit to work in vim. 
+
+## Work day
+* Work out how long the sprint is going to be and set alarm  (ten minutes early if tagging in on kids)  - respond to alarms not clocks 
 * Collect any tasks
-    * Process reminders
-    * Clear desk into inbox. 
-    * [Process Inbox](process_inbox)
-    * Process Paper (which should be in inbox anyway)
-    * Empty recycle bin then: process/Delete files in filesystem 
+  * Process reminders
+  * Clear desk into inbox. 
+  * [Process Inbox](process_inbox)
+  * Process Paper (which should be in inbox anyway)
+  * Empty recycle bin (Shift-CMD-Backspace) then: process/Delete files in filesystem 
 * Process inbox.md
 Remember the purpose of the file: 
     * To help you recover from interupts 
     * To make notes that might be useful 
     * To track time
+  * Turn Stack into todos 
   * Write up sections properly.
     * Move relevant sections over to their own issue
   * For previous days: review, check, and move everything over to index.md
@@ -63,9 +62,7 @@ Remember the purpose of the file:
   * Close open windows 
   * (If Monday) Look at the automatic calendar and *Write down* a review of the previous week
 * Make sure you know what you 'big thing' for the week is. 
-* Commit the todo.txt
 * If workday: open eqt.todo.txt else: open todo.txt
-* If list empty, review project boards and regenerate list
 * While there are items on the list 
   * [Attack first item on list](listitem)
   * literal rest
