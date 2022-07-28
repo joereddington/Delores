@@ -1,4 +1,4 @@
-<head>
+ead>
 <script>
 
 function setup() {
@@ -51,6 +51,7 @@ document.getElementById("score").innerHTML += "<BR>NA       : "+(bullets.match(/
 
 function updatestyles(index){
     const allVisibleElements = document.querySelectorAll('li');
+    allVisibleElements[index].scrollIntoView({block: "center",behavior:"smooth"});
     allVisibleElements[index].setAttribute("style", "background-color:yellow;color:black");
     //style based on bullets
     for (let i=0;i<allVisibleElements.length;i++){

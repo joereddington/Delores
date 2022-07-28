@@ -1,7 +1,8 @@
+Okay let's get this meta file sorted 
+
+# Content 
 (E) Write the 'I don't wanna' for delores 
-(E) Adding timer function to individual ideas
 (E) Add meta process 'if you want to change delores, it goes into the list. 
-(E) 'Weekend' delores should include a todo commit so that you can use the phone for the rest of the day. 
 (E) Inline the smallest page 
 
       11 process_inbox.md
@@ -18,36 +19,33 @@
      335 total
 
 
+What are the rules for content? 
+* Each item can't have a minimum time - because then you wouldn't put some in the list. 
+* Each item also can't have a maximum time - because some things are long. 
+* So time isn't a factor. It's the simple 'What's next' of the day. 
+
 
 # The parser process. 
+Here's what I want: 
+
+I want to be able to use Delores to successful get through a whole day.  I want that day to include a simple way adapting delores.  
+
+I want the delores code to be fun to use, with sound effects and timers and a general gaming vibe. 
+  * Also the if and while commands should be effective 
+    * Which means a count on some of the symbols 
+I want to be able to compare days from one to another. 
+  * As the code gets more structured, then the content will follow suit. 
 
 
-## The log file 
-  * Should have a specalised file extension 
-  * With shortcuts for that file - effectively a version of todo.txt but with more going on. 
-  * so we can tick and whatever
-  * And highlight 
 
 
-## Questions to answer 
-* Do we mark off 'if' checks we've done? If the object is to boost ticks then that's fine. 
+# Code todos 
+(A) Extract the javascript so that you can also run tests if you need to. 
+(E) Create a help overview 
 
-## Key 
 
-✓ done 
-- ignore
-3 done three times 
-* Needs to be changed, don't count. 
 
-For each day, count the terms. 
 ## 07/07/22 10:31 to 12:53, Let's have some Delores code.  +EQT
-* I've checked out a new branch 
-* The lines show colours based on a string 
-* Key presses all work. 
-* Scores work! 
-* Cookies work! 
-* Also had a couple of phone calls - one with prison and one with remote.
-* Comited, need to test before doing more  
 
 # Project stack 
 * Cookies. 
@@ -61,3 +59,13 @@ For each day, count the terms.
 * Extract the javascript files. 
 * Work out why it doesn't work with subpages
 * Work out why the yellow 'cursor' isn't consistent between pages
+
+
+
+Delores and the code for delores 
+* Work out the deal for the subpages 
+  * Oh I think the colours show but the cookie doens't fire 
+* Sort out the if statements 
+* Be able to reset everything at once (or mark cookies by date) 
+* Timer for how long each one took. 
+(E) Adding timer function to individual ideas
