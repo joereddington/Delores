@@ -17,6 +17,7 @@ Always go back to inbox.md. Rewrite, make notes and break down, that's the prupo
 * Check priority
   * If priority changes then sort and start again. 
   * If priority implies a date and person, then fill those in. 
+* Read the github issue 
 * If you'll ever do this task again:
   * Make good notes
 * If will take over an hour:  

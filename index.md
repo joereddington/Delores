@@ -1,7 +1,4 @@
---- 
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
+---
 layout: page
 ---
 
@@ -27,6 +24,7 @@ Sometimes it's useful to follow the page step by step, but a lot of the time 90%
 # Getting into a good mood 
 * Fill out big book of gratitude
 * Smile
+* Visualise 
 * Write down what you are scared about *and* what you are excited about. 
 
 # Make sure we'll still have energy in a few hours. 
@@ -54,6 +52,7 @@ Remember the purpose of the file:
     * To help you recover from interupts 
     * To make notes that might be useful 
     * To track time
+    * To produce blog posts
   * Turn Stack into todos 
   * Write up sections properly.
     * Move relevant sections over to their own issue
@@ -90,6 +89,7 @@ navigator.clipboard.writeText(`
 * [Single item](listitem)
 * [kitchen](clean_kitchen)
 * [morning](morning)
+* [social](social)
 * [email](email)
 * [emotionalproblem](emotionalproblem)
 * [nonononono](nonononono)
@@ -103,24 +103,6 @@ navigator.clipboard.writeText(`
 * Car/pram packed 
 * Coats and hats and shoes for kids preped
 * Know what the game is 
-
-## Social media process 
-* Start with EQT social media 
-* Put some of the read it later on twitter
-* Clear personal inboxes first: people are waiting for a reply 
-* open social media calendars and pick posts. 
-  * Add tasks for other things in the social calendar 
-* Remember to post something to reddit. 
-* Draft posts vim
-* Open linkedin first 
-* Open Facebook
-* Make Posts 
-* Go to profile and work backwards answering all comments 
-* Process notifications 
-* Review all posts in Luton vegan group and add friends
-* Same for CEO group. 
-* Process Newsfeed in 'most recent' order. 
-* See .Gratitude
 
 
 
