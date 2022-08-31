@@ -46,7 +46,6 @@ Sometimes it's useful to follow the page step by step, but a lot of the time 90%
   * Clear desk into inbox. 
   * [Process Inbox](process_inbox)
   * Process Paper (which should be in inbox anyway)
-  * Empty recycle bin (Shift-CMD-Backspace) then: process/Delete files in filesystem 
 * Process inbox.md
 Remember the purpose of the file: 
     * To help you recover from interupts 
@@ -58,7 +57,8 @@ Remember the purpose of the file:
     * Move relevant sections over to their own issue
   * For previous days: review, check, and move everything over to index.md
   * Run the deploy script  (~/git/joereddington.github.io/diary/scripts/deploy.sh)
-  * Close open windows 
+* Empty recycle bin (Shift-CMD-Backspace) then: process/Delete files in filesystem
+* Close open windows 
   * (If Monday) Look at the automatic calendar and *Write down* a review of the previous week
 * Make sure you know what you 'big thing' for the week is. 
 * If workday: open eqt.todo.txt else: open todo.txt
