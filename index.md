@@ -24,6 +24,7 @@ Sometimes it's useful to follow the page step by step, but a lot of the time 90%
 # Getting into a good mood 
 * Fill out big book of gratitude
 * Smile
+* Decide what you want from the day. Pick some things that are hard and tell someone you want to do them. 
 * Visualise 
 * Write down what you are scared about *and* what you are excited about. 
 
@@ -48,10 +49,10 @@ Sometimes it's useful to follow the page step by step, but a lot of the time 90%
   * Process Paper (which should be in inbox anyway)
 * Process inbox.md
 Remember the purpose of the file: 
-    * To help you recover from interupts 
-    * To make notes that might be useful 
-    * To track time
-    * To produce blog posts
+    * To help you recover from interupts  - so write down your next action
+    * To make notes that might be useful - so include lots of urls, commands, ideas
+    * To track time - make sure you are properly tagging things 
+    * To produce blog posts - write for a third person.
   * Turn Stack into todos 
   * Write up sections properly.
     * Move relevant sections over to their own issue
