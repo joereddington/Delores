@@ -2,8 +2,14 @@
 
 function setup() {
 bullets=getCookie("bullets");
+bullets=bullets.replace(/x*$/,"") //removing extra 'x's at the end. 
+console.log(bullets);
+index=0;
+updatestyles(index); 
 index=bullets.length
+console.log("The index is:"+index);
 updatescore();
+console.log("Score updated");
 updatestyles(index); 
 }
 
@@ -50,6 +56,7 @@ document.getElementById("score").innerHTML += "<BR>NA       : "+(bullets.match(/
 } 
 
 function updatestyles(index){
+    console.log("Update styles called with: "+index);
     const allVisibleElements = document.querySelectorAll('li');
     allVisibleElements[index].scrollIntoView({block: "center",behavior:"smooth"});
     allVisibleElements[index].setAttribute("style", "background-color:yellow;color:black");
