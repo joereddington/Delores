@@ -1,6 +1,6 @@
 
 function setup() {
-bullets=getCookie("bullets");
+bullets=getCookie(today()+"bullets");
 bullets=bullets.replace(/x*$/,"") //removing extra 'x's at the end. 
 console.log(bullets);
 index=0;
@@ -13,15 +13,34 @@ updatestyles(index);
 }
 
 
+function print_previous_cookies(number_of_days){
+  output="";
+  var today = new Date();
+  for(let i = 0; i < number_of_days; i++) {
+   target_date=new Date(new Date().setDate(today.getDate() - i))
+   text_date=printdate(target_date)
+   console.log(text_date)
+   output+= "<li>" + text_date +" - " +getCookie(text_date+"bullets");
+  }
+  return output;
+}
+
+function printdate(input_date){
+var dd = String(input_date.getDate()).padStart(2, '0');
+var mm = String(input_date.getMonth() + 1).padStart(2, '0'); //January is 0!
+var yyyy = input_date.getFullYear();
+
+input_date = yyyy + '-' + mm + '-' + dd;
+
+return input_date
+
+}
+
+
 function today(){
 var today = new Date();
-var dd = String(today.getDate()).padStart(2, '0');
-var mm = String(today.getMonth() + 1).padStart(2, '0'); //January is 0!
-var yyyy = today.getFullYear();
+return printdate(today)
 
-today = mm + '/' + dd + '/' + yyyy;
-
-return today
 }
 
 //Should be in a seperate cookie file 
@@ -127,7 +146,7 @@ document.addEventListener('keydown', (event) => {
     updatestyles(index); 
     updatescore();
     console.log("pre set Cookie called")
-    setCookie("bullets",bullets,90);
+    setCookie(today()+"bullets",bullets,90);
     console.log("set Cookie called")
 }
     );
