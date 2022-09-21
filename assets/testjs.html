@@ -1,0 +1,35 @@
+<html>
+<head> 
+
+<script src="delores.js"></script>
+</head>
+<body>
+
+<h1>Test Driver for delores</h1> 
+<ul>
+<div id=results>
+</div>
+</ul>
+
+<script>
+
+function test(description, a, b){
+  if (String(a)===String(b)){
+    return "<li>✅ "+ description;
+  }else{
+    return "<li>❌ "+ description+"("+a+"  "+b+")"
+  }
+};
+
+function runtest(description, a,b ){
+  document.getElementById("results").innerHTML+=test(description, a,b);
+};
+
+  document.getElementById("results").innerHTML=today();
+  //runtest("Total price", total_price(1,30,true, false),"1639")
+
+  
+
+</script> 
+</body>
+</html> 
