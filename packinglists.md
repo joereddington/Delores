@@ -20,3 +20,31 @@ title: Packing Lists
   * Nova plates and cutlry 
   * Books to read at bedtime. 
 
+
+## Prison visit
+* Crc cards
+* Proofreading examples
+* Book examples
+* Water bottle 
+* Packed lunch (sandwhitches
+* PASSPORT AND DBS
+
+### hotel 
+3 chargers 
+notebook
+'to read' book/kindle
+toiletries - full bag 
+suncream/sunglasses +hat 
+vitimins 
+Bank card
+4x outfits
+dirty clothes bag 
+laptop
+
+### train 
+* downlaods
+headphones and charging cable 
+Water bottle 
+snacks
+spare batteries
+delores
