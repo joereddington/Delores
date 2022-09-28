@@ -15,6 +15,8 @@ Sometimes it's useful to follow the page step by step, but a lot of the time 90%
 ## Morning 
 * clean teeth and process clear bags
 * Running clothes
+* Iterate Laundry 
+
 * Check dishwasher has been on
 * drink 1l water
 * Vitamin tablet
@@ -24,9 +26,6 @@ Sometimes it's useful to follow the page step by step, but a lot of the time 90%
 # Getting into a good mood 
 * Fill out big book of gratitude
 * Smile
-* Decide what you want from the day. Pick some things that are hard and tell someone you want to do them. 
-* Visualise 
-* Write down what you are scared about *and* what you are excited about. 
 
 # Make sure we'll still have energy in a few hours. 
 * Get glasses
@@ -36,12 +35,16 @@ Sometimes it's useful to follow the page step by step, but a lot of the time 90%
 
 # Defensive Focus  
 * Phone is literally locked away (if you need a code for a login, then you can wait, if you need to make a call, use Skype).
-* Turn on redirector (consider opening social media stack).
-* Commit to work in vim. 
+* Check internet is off <!--Turn on redirector (consider opening social media stack).>
+<!--* Commit to work in vim. --> 
 * Go back and do the red tasks 
 
 ## Work day
 * Look at the ten year goals (even if they are out of date) 
+* Decide what you want from the day. Pick some things that are hard and tell someone you want to do them. 
+* Visualise 
+* Write down what you are scared about *and* what you are excited about. 
+  * Name your source of stress and tell someone.
 * Fill out the daily checklist (As a reminder of the things you want to do well) 
 * Work out how long the sprint is going to be and set alarm  (ten minutes early if tagging in on kids)  - respond to alarms not clocks 
 * Collect any tasks
@@ -109,8 +112,8 @@ navigator.clipboard.writeText(`
 
 
 # Close down work day 
-* Commit and push todos and put on kindle 
-* Clear up the input file. 
+* Make a note of when you start and when you stop so you know how long it lasts
+* process up the input file. 
 * Clear the stack. 
 * Make it easy to come back to. 
 * Afternoon Meditation for solid evening.  
