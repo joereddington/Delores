@@ -36,10 +36,6 @@ Sometimes it's useful to follow the page step by step, but a lot of the time 90%
 
 ## Work day
 * Look at the ten year goals (even if they are out of date) 
-* Decide what you want from the day. Pick some things that are hard and tell someone you want to do them. 
-* Visualise 
-* Write down what you are scared about *and* what you are excited about. 
-  * Name your source of stress and tell someone.
 * Fill out the daily checklist (As a reminder of the things you want to do well) 
 * Work out how long the sprint is going to be and set alarm  (ten minutes early if tagging in on kids)  - respond to alarms not clocks 
 * Collect any tasks
@@ -60,8 +56,8 @@ Sometimes it's useful to follow the page step by step, but a lot of the time 90%
   * Run the deploy script  (~/git/joereddington.github.io/diary/scripts/deploy.sh)
 * Empty recycle bin (Shift-CMD-Backspace) then: process/Delete files in filesystem
 * Close open windows 
-  * (If Monday) Look at the automatic calendar and *Write down* a review of the previous week
-* Make sure you know what you 'big thing' for the week is. 
+* (If Monday) Look at the automatic calendar and *Write down* a review of the previous week
+* Check that the (most important) github issue that you are going to focus on is in inbox.md 
 * If workday: open eqt.todo.txt else: open todo.txt
 * While there are items on the list 
   * [Attack first item on list](listitem)
