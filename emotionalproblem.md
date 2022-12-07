@@ -19,6 +19,7 @@ We don't know in advance how sad you are. This might be easily fixable and it mi
   * Deep breath. 
   * (you won't want to do this before the 20 things) Now, How is this feeling a gift? 
 * Try working again for 1 hour.  <!-- I didn't do that for the mental health day --> 
+* Run/exercise
 * If still sad. 
   * Tell people.
     * Message a couple of friends first  

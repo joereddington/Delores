@@ -17,6 +17,7 @@ title: "Social Media Process"
 * Go to profile and work backwards answering all comments 
 * Process notifications 
 * Review all posts in Luton vegan group and add friends
+  * Look at other posts in other vegan groups and see what can be transferred accross. 
 * Same for CEO group. 
 * Process Newsfeed in 'most recent' order. 
 * See .Gratitude

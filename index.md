@@ -62,7 +62,8 @@ Remember the purpose of the file:
 * Empty recycle bin (Shift-CMD-Backspace) then: process/Delete files in filesystem
 * Close open windows 
 * (If Monday) Look at the automatic calendar and *Write down* a review of the previous week
-* Check that the (most important) github issue that you are going to focus on is in inbox.md 
+* Check that the (most important) github issue that you are going to focus on is in inbox.md (and that you have put it on social media) 
+* Do today's Google Ads experiment. 
 * If workday: open eqt.todo.txt else: open todo.txt
 * While there are items on the list 
   * [Attack first item on list](listitem)

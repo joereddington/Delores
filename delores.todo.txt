@@ -1,7 +1,7 @@
 Okay let's get this meta file sorted 
 
 # Content 
-(E) Write the 'I don't wanna' for delores 
+(E) Add a timer function to individual steps.
 (E) Add meta process 'if you want to change delores, it goes into the list. 
 (E) Inline the smallest page 
 
@@ -68,4 +68,3 @@ Delores and the code for delores
 * Sort out the if statements 
 * Be able to reset everything at once (or mark cookies by date) 
 * Timer for how long each one took. 
-(E) Adding timer function to individual ideas
