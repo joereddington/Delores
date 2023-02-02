@@ -30,7 +30,7 @@ title: Packing Lists
 * PASSPORT AND DBS
 
 ### hotel 
-3 chargers 
+3 chargers (phone, laptop and watch)
 notebook
 'to read' book/kindle
 toiletries - full bag 
@@ -48,3 +48,27 @@ Water bottle
 snacks
 spare batteries
 delores
+
+
+### Disney
+  * Packing list
+    * Tech 
+      * Two watch chargers
+      * Five phone chargers 
+      * The usb bank 
+      * European plugs! 
+      * spare phone and sim card 
+      * Extra batteries and their charging wire. 
+      * Kat's airpods for night watching of tv 
+    * Joe Clothes 
+      * 2 jeans 1 belt 
+      * underwear, socks and extra socks because I'll be wearing several pairs. 
+      * Mutliple jumpers and hoodies 
+    * Toiletries 
+      * toothbrush, shower gel, 
+    * Coat gloves, scarf and hats. 
+    * Passports and paperwork, photos of passports.  
+    * Umbrellas 
+    * Thermos flasks
+
+
