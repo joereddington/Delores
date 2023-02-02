@@ -11,4 +11,3 @@ title: email
 * Remove the calendar ones and process the rest.     
   * Long emails with ifs. 
 * Review 
-* Look at the times you send emails and see if it matches up with the log file 
