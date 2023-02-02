@@ -12,10 +12,12 @@ Sometimes it's useful to follow the page step by step, but a lot of the time 90%
 </script>
 </div>
 
+
+{% flexible_include '!head -n1 ../todo.txt/eqt.todo.txt' %}
+
 ## Morning 
 * clean teeth and process clear bags
 * Running clothes
-* Iterate Laundry 
 
 * Check dishwasher has been on
 * drink 1l water
@@ -34,6 +36,7 @@ Sometimes it's useful to follow the page step by step, but a lot of the time 90%
 
 
 # Defensive Focus  
+* Setup mario timer. 
 * Phone is literally locked away (if you need a code for a login, then you can wait, if you need to make a call, use Skype).
 * Check internet is off <!--Turn on redirector (consider opening social media stack).>
 <!--* Commit to work in vim. --> 
@@ -48,22 +51,12 @@ Sometimes it's useful to follow the page step by step, but a lot of the time 90%
   * Clear desk into inbox. 
   * [Process Inbox](process_inbox)
   * Process Paper (which should be in inbox anyway)
-* Process inbox.md
-Remember the purpose of the file: 
-    * To help you recover from interupts  - so write down your next action
-    * To make notes that might be useful - so include lots of urls, commands, ideas
-    * To track time - make sure you are properly tagging things 
-    * To produce blog posts - write for a third person.
-  * Turn Stack into todos 
-  * Write up sections properly.
-    * Move relevant sections over to their own issue
-  * For previous days: review, check, and move everything over to index.md
-  * Run the deploy script  (~/git/joereddington.github.io/diary/scripts/deploy.sh)
+* [Process inbox.md](process_notes)
 * Empty recycle bin (Shift-CMD-Backspace) then: process/Delete files in filesystem
-* Close open windows 
+* Close open windows  (Ctrl + Up shows them all) 
 * (If Monday) Look at the automatic calendar and *Write down* a review of the previous week
+  * Also remind yourself that the reason you work super hard to get all the hours in is so you can have time to yourself for personal projects.
 * Check that the (most important) github issue that you are going to focus on is in inbox.md (and that you have put it on social media) 
-* Do today's Google Ads experiment. 
 * If workday: open eqt.todo.txt else: open todo.txt
 * While there are items on the list 
   * [Attack first item on list](listitem)

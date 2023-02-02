@@ -30,3 +30,9 @@ gem "wdm", "~> 0.1.1", :platforms => [:mingw, :x64_mingw, :mswin]
 
 
 gem "webrick", "~> 1.7"
+
+
+# For the flexible include plugin 
+group :jekyll_plugins do
+  gem 'jekyll_flexible_include', '~> 2.0.0'
+end
