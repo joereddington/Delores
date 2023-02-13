@@ -11,6 +11,7 @@ layout: post
   * Set alarm
   * _Confirm time/medium with the other people_ (including re-reading emails)
   * Add any tasks about appointment to stack (including packing bags)
+    * Make a list of things you want to talk to those people about. 
 * Plan food 
   * Look at meals.todo.txt
   * Put meal boxes in fridge and make shopping list. 

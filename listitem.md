@@ -7,16 +7,11 @@ title: "List item"
 # Main thing
 Always go back to inbox.md. Rewrite, make notes and break down, that's the prupose of it. 
 
-# Picking an item
-* If there are >5 of the current priority level, then sort on due date (for (A) or (C)) or importance (B) and (D) or pick at random (E)  
 
 # Item in todo list. 
 * Get excited.  
   * Really think about what it will be like to get it finally ticked off. 
 * Vim tasks go into the vim issue! Delores tasks go in the delores todo. 
-* Check priority
-  * If priority changes then sort and start again. 
-  * If priority implies a date and person, then fill those in. 
 * Read the github issue 
 * If you'll ever do this task again:
   * Make good notes
