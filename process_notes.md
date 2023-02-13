@@ -36,3 +36,5 @@ The rules are:
 * Anything tagged with an issue has the write up transfered to the issue. 
   * Except any interesting shortcuts or bits of useful command line fu 
 
+
+In practice, you work through the notes and probably find a few things that are halfway through. That's okay, we can finish those off - if we've been working properly then those should be very high prioirty things anyway.
