@@ -13,17 +13,14 @@ Sometimes it's useful to follow the page step by step, but a lot of the time 90%
 </div>
 
 
-{% flexible_include '!head -n1 ../todo.txt/eqt.todo.txt' %}
-
 ## Morning 
-* clean teeth and process clear bags
+* clean teeth 
 * Running clothes
 
 * Check dishwasher has been on
 * drink 1l water
 * Vitamin tablet
 * Put kettle on 
-
 
 # Getting into a good mood 
 * Fill out big book of gratitude
@@ -57,13 +54,36 @@ Sometimes it's useful to follow the page step by step, but a lot of the time 90%
 * (If Monday) Look at the automatic calendar and *Write down* a review of the previous week
   * Also remind yourself that the reason you work super hard to get all the hours in is so you can have time to yourself for personal projects.
 * Check that the (most important) github issue that you are going to focus on is in inbox.md (and that you have put it on social media) 
-* If workday: open eqt.todo.txt else: open todo.txt
+* Review the first category of task, make sure they all have the correct due date, priority and the a github link. 
+<ul>
+<ul>
+<div id="tasks"></div>
+ </ul> 
+ </ul> 
 * While there are items on the list 
   * [Attack first item on list](listitem)
   * literal rest
 
 
 <script>
+
+function load_tasks(){
+  tasks=`{% flexible_include '../todo.txt/eqt.todo.txt' %}`;
+  split_tasks=tasks.split('\n')
+    highest_priority = split_tasks[0].substring(1,2)
+    //alert(highest_priority)
+    output_tasks=[]
+    for (const task of split_tasks) {
+      if (task.substring(1,2) === highest_priority) {
+        output_tasks.push("<li>"+task)
+      }
+
+    }  
+  document.getElementById("tasks").innerHTML  = output_tasks;
+}
+
+load_tasks(); //run it immediately 
+
 
 
 function copy(){
@@ -88,6 +108,7 @@ navigator.clipboard.writeText(`
 * [email](email)
 * [emotionalproblem](emotionalproblem)
 * [nonononono](nonononono)
+* [map project](map_project)
 
 
 # Extras 
