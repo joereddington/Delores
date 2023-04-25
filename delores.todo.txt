@@ -1,5 +1,19 @@
+
+# Delores Thougths 
+* I want to be able to link up the timer, the log, and delores.  Much closer.  
+* Possibly I can literally import options using a vim macro. Like, I'd have a set of keys for 'expand this' and for 'tick cross' 
+  * With vim syntax highlighting 
+  * Sounds like yet again I want to port it to a new place. 
+    * Which would definitely not work for paper
+* Paper is a good thing 
+* I miss the 'problem' option
+
+
+--------
 Okay let's get this meta file sorted 
 
+
+* Absolutely needs a 'why NOT' option 
 # Content 
 (E) Add a timer function to individual steps.
 (E) Add meta process 'if you want to change delores, it goes into the list. 

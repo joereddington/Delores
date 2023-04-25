@@ -65,6 +65,7 @@ function getCookie(cname) {
       return c.substring(name.length, c.length);
     }
   }
+  console.log("cname NOT found")
   return "";
 }
 
@@ -141,6 +142,11 @@ document.addEventListener('keydown', (event) => {
         event.preventDefault();
         bullets=setCharAt(bullets,index,event.key)
         index++;
+    }
+    if ("X".includes(event.key)) {
+        event.preventDefault();
+        bullets=""
+        index=0;
     }
     
     updatestyles(index); 
