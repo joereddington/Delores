@@ -13,61 +13,68 @@ Sometimes it's useful to follow the page step by step, but a lot of the time 90%
 </div>
 
 
-## Morning 
-* clean teeth 
-* Running clothes
+# Engage with Delores 
+* Accept - Delores is a tool for finding out what you don't want to do. 
+* Delores is also a tool for finding out why you don't want to do it. 
 
+# Daily start
+
+_Bedroom_
+* Phone is literally locked away (if you need a code for a login, then you can wait, if you need to make a call, use Skype).
+
+_Bathroom_
+* clean teeth 
+
+_Kitchen_
 * Check dishwasher has been on
 * drink 1l water
 * Vitamin tablet
 * Put kettle on 
-
-# Getting into a good mood 
-* Fill out big book of gratitude
-* Smile
-
-# Make sure we'll still have energy in a few hours. 
+* Water plants 
 * Get glasses
-* [Plan Time and Process Calendar](process_calendar) (Includes planning exercise and food) <!--Because something might be urgent --> 
-* Get full water bottle, hot drink, and tray (take dirty cups out with you) 
 
+_Office_
+* Fill out big book of gratitude
 
-# Defensive Focus  
-* Setup mario timer. 
-* Phone is literally locked away (if you need a code for a login, then you can wait, if you need to make a call, use Skype).
-* Check internet is off <!--Turn on redirector (consider opening social media stack).>
-<!--* Commit to work in vim. --> 
-* Go back and do the red tasks 
-
-## Work day
-* Look at the ten year goals (even if they are out of date) 
-* Fill out the daily checklist (As a reminder of the things you want to do well) 
-* Work out how long the sprint is going to be and set alarm  (ten minutes early if tagging in on kids)  - respond to alarms not clocks 
+# Getting ready for first sprint of the day
+* [Plan Time and Process Calendar](process_calendar) (Inclumes planning exercise and food) <!--Because something might be urgent --> 
+* open up the daily scoresheet
 * Collect any tasks
   * Process reminders
   * Clear desk into inbox. 
   * [Process Inbox](process_inbox)
   * Process Paper (which should be in inbox anyway)
+* Review the ten year goals (even if they are out of date) 
+
+## Starting a sprint after break
+_Might be doing this two or three or four times a day_ 
+* Start a new section in  inbox.md 
+* Setup mario timer. 
+* Check internet is off <!--Turn on redirector (consider opening social media stack).-->
+* Set alarm for end of sprint - respond to alarms not clocks 
+* Confirm you have full water bottle, hot drink, and tray 
 * [Process inbox.md](process_notes)
-* Empty recycle bin (Shift-CMD-Backspace) then: process/Delete files in filesystem
-* Close open windows  (Ctrl + Up shows them all) 
-* (If Monday) Look at the automatic calendar and *Write down* a review of the previous week
-  * Also remind yourself that the reason you work super hard to get all the hours in is so you can have time to yourself for personal projects.
-* Check that the (most important) github issue that you are going to focus on is in inbox.md (and that you have put it on social media) 
-* Review the first category of task, make sure they all have the correct due date, priority and the a github link. 
+* Clear stack 
+  * Give everything a priority and a time. 
+  * Put them in the relevant files 
+
+### Picking a todo list item. 
 <ul>
+ </ul> 
+* While there are items on the list 
+  * Review the first category of task, make sure they all have the correct due date, priority and a github link. 
+  * [Attack first item on list](listitem)
+  * literal rest (actual, five minutes on the timer, literal rest. 
+* (After while) 
+  * Regenerate Todos. 
+
 <ul>
 <div id="tasks"></div>
  </ul> 
- </ul> 
-* While there are items on the list 
-  * [Attack first item on list](listitem)
-  * literal rest
-
-
 <script>
 
 function load_tasks(){
+/* This doesn't work if the first task is ticked off*/ 
   tasks=`{% flexible_include '../todo.txt/eqt.todo.txt' %}`;
   split_tasks=tasks.split('\n')
     highest_priority = split_tasks[0].substring(1,2)
