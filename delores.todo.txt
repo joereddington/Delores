@@ -13,6 +13,8 @@
 Okay let's get this meta file sorted 
 
 
+* Still needs to cope with loops 
+* Weekly thing to backup the old cookies. 
 * Absolutely needs a 'why NOT' option 
 # Content 
 (E) Add a timer function to individual steps.

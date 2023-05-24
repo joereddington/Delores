@@ -25,7 +25,8 @@ function runtest(description, a,b ){
   document.getElementById("results").innerHTML+=test(description, a,b);
 };
 
-document.getElementById("results").innerHTML=today();
+
+document.getElementById("results").innerHTML="<h2>Today is "+today()+"<H2>";
   document.getElementById("results").innerHTML+="<br>"+print_previous_cookies(50);//this only works on a sever
   //runtest("Total price", total_price(1,30,true, false),"1639")
 

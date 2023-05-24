@@ -27,6 +27,7 @@ Always go back to inbox.md. Rewrite, make notes and break down, that's the prupo
   * Remember that, by definition, this task is more important than anything below it. 
   * It's done when there is nothing left to do - it's done when you need things from other people to keep doing  
 
+* When it's done, return to the last page.
 
 # Mapping 
 * Map in Vim first. 

@@ -17,6 +17,9 @@ Sometimes it's useful to follow the page step by step, but a lot of the time 90%
 * Accept - Delores is a tool for finding out what you don't want to do. 
 * Delores is also a tool for finding out why you don't want to do it. 
 
+# If you are halfway through some interesting bit of code and can easily get back to flow
+* Quickly check the calendar and come back to this later
+
 # Daily start
 
 _Bedroom_
@@ -30,7 +33,6 @@ _Kitchen_
 * drink 1l water
 * Vitamin tablet
 * Put kettle on 
-* Water plants 
 * Get glasses
 
 _Office_
@@ -45,6 +47,8 @@ _Office_
   * [Process Inbox](process_inbox)
   * Process Paper (which should be in inbox anyway)
 * Review the ten year goals (even if they are out of date) 
+* Review the public internet history
+* Possibly print out Nova's dinner plan
 
 ## Starting a sprint after break
 _Might be doing this two or three or four times a day_ 
