@@ -77,25 +77,6 @@ _Might be doing this two or three or four times a day_
  </ul> 
 <script>
 
-function load_tasks(){
-/* This doesn't work if the first task is ticked off*/ 
-  tasks=`{% flexible_include '../todo.txt/eqt.todo.txt' %}`;
-  split_tasks=tasks.split('\n')
-    highest_priority = split_tasks[0].substring(1,2)
-    //alert(highest_priority)
-    output_tasks=[]
-    for (const task of split_tasks) {
-      if (task.substring(1,2) === highest_priority) {
-        output_tasks.push("<li>"+task)
-      }
-
-    }  
-  document.getElementById("tasks").innerHTML  = output_tasks;
-}
-
-load_tasks(); //run it immediately 
-
-
 
 function copy(){
 navigator.clipboard.writeText(`
