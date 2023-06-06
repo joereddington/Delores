@@ -29,7 +29,7 @@ _Bathroom_
 * clean teeth 
 
 _Kitchen_
-* Check dishwasher has been on
+* Dishwasher
 * drink 1l water
 * Vitamin tablet
 * Put kettle on 
@@ -132,6 +132,9 @@ navigator.clipboard.writeText(`
 * Know what the game is 
 
 
+
+# Thank yous 
+* Send individual messages first
 
 # Close down work day 
 * Make a note of when you start and when you stop so you know how long it lasts

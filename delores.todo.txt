@@ -56,7 +56,6 @@ I want to be able to compare days from one to another.
 
 
 # Code todos 
-(A) Extract the javascript so that you can also run tests if you need to. 
 (E) Create a help overview 
 
 
@@ -75,6 +74,17 @@ I want to be able to compare days from one to another.
 * Extract the javascript files. 
 * Work out why it doesn't work with subpages
 * Work out why the yellow 'cursor' isn't consistent between pages
+* Have the logic be extirely seperate from the view - possibly with a complier - so it might end up in another language next time I get board
+* Brainstorm what it would need to make this a releasable product. 
+  * Hmmm What would I want to be able to replace this? 
+    * Still web. 
+    * Out of Jekyll I think - JUST a markdown compiler 
+    * Editable in Vim - I want to be able to open a markdown file. 
+    * Ability to use Javascript to do complex things 
+    * Working IF and While. 
+    * Can I JUST  write a compiler? In Python? That produces a json file that the Javascript reads?  
+      * What happens if we do that? 
+      * So I think the plan is to do a test driven bit of development that creates a python compiler into json alongside a javascript module to interpret it. 
 
 
 
