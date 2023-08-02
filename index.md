@@ -40,7 +40,6 @@ _Office_
 
 # Getting ready for first sprint of the day
 * [Plan Time and Process Calendar](process_calendar) (Inclumes planning exercise and food) <!--Because something might be urgent --> 
-* open up the daily scoresheet
 * Collect any tasks
   * Process reminders
   * Clear desk into inbox. 
@@ -48,15 +47,15 @@ _Office_
   * Process Paper (which should be in inbox anyway)
 * Review the ten year goals (even if they are out of date) 
 * Review the public internet history
-* Possibly print out Nova's dinner plan
+* Clear out the downloads folder
 
 ## Starting a sprint after break
 _Might be doing this two or three or four times a day_ 
 * Start a new section in  inbox.md 
-* Setup mario timer. 
-* Check internet is off <!--Turn on redirector (consider opening social media stack).-->
+<!-- * Setup mario timer. 
+* Check internet is off * Turn on redirector (consider opening social media stack).-->
 * Set alarm for end of sprint - respond to alarms not clocks 
-* Confirm you have full water bottle, hot drink, and tray 
+* Confirm you have full water bottle
 * [Process inbox.md](process_notes)
 * Clear stack 
   * Give everything a priority and a time. 

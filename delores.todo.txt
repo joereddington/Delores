@@ -89,8 +89,4 @@ I want to be able to compare days from one to another.
 
 
 Delores and the code for delores 
-* Work out the deal for the subpages 
-  * Oh I think the colours show but the cookie doens't fire 
-* Sort out the if statements 
-* Be able to reset everything at once (or mark cookies by date) 
 * Timer for how long each one took. 
